@@ -1,4 +1,4 @@
-# RPCS3Science
+# Science Theme for RPCS3
 <br>
 <img src="https://raw.githubusercontent.com/fourminute/RPCS3Science/master/screen.jpg" width="800"/>
 <br>
