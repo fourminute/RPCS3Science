@@ -1,6 +1,6 @@
 # RPCS3Science
 <br>
-https://i.imgur.com/0SQ998a.jpg
+<img src="https://i.imgur.com/0SQ998a.jpg" width="350"/>
 <br>
 <p>Created for RPCS3</p>
 <p>To install copy "science by fourminute.qss" and "science-background.jpg" to RPCS3\GuiConfigs</p>
