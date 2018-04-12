@@ -1,5 +1,6 @@
 # Science Theme for RPCS3
 <br>
+(Also check out my other theme <a href="https://github.com/fourminute/RPCS3Mascot">MASCOT for RPCS3</a>)
 <img src="https://raw.githubusercontent.com/fourminute/RPCS3Science/master/screen.jpg" width="800"/>
 <br>
 <p>Created for RPCS3</p>
