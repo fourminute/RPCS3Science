@@ -76,9 +76,9 @@ QDialog, QWidget#trophy_manager, QMainWindow#main_window {
 /* Table headers */
 QHeaderView::section {
 	text-transform: uppercase;
-	background: #f1f1f1;
-	color: #f1f1f1;
-	padding-left: 0.15em;
+	background: #04252c;
+	color: #ffffff;
+	padding-left: 0.05em;
 	padding-top: 0.15em;
 	padding-bottom: 0.10em;
 	text-transform: uppercase;
